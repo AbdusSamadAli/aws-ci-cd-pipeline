@@ -1,2 +1,2 @@
-[!s3bucketurl.jpg]
-[!codepipelinewithS3.jpg]
+![alt text](/s3bucketurl.jpg)
+![alt text](/codepipelinewithS3.jpg)
